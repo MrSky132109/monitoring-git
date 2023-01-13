@@ -1,0 +1,16 @@
+h1{
+    font-size: 3em;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    background: url('https://id.images.search.yahoo.com/images/view;_ylt=AwrKALeq6LRjIRkAFUnNQwx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2JlMGZhOTAyZGJkNjc4NGM4YmM1OTJiMmM4MGIzNjhjBGdwb3MDMjYEaXQDYmluZw--?back=https%3A%2F%2Fid.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbackground%26type%3DE210ID91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D26&w=1920&h=1016&imgurl=movementmindfulnessandme.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fgradient-background-02.jpg&rurl=https%3A%2F%2Fmovementmindfulnessandme.com%2Fgradient-background-02&size=248.8KB&p=background&oid=be0fa902dbd6784c8bc592b2c80b368c&fr2=piv-web&fr=mcafee&tt=gradient-background-02+%7C+Movement+Mindfulness+and+Me&b=0&ni=21&no=26&ts=&tab=organic&sigr=tUYD.8CmQPU7&sigb=19qv23t65Dmx&sigi=SviNictqGYPY&sigt=hwZtgSmTcuHQ&.crumb=Z50g24J1n3D&fr=mcafee&fr2=piv-web&type=E210ID91215G0');
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: text 7.5s linear infinite;
+}
+
+@keyframes text {
+    from { background-position: 0% 50%;}
+    to { background-position: 100% 100%;}
+}
